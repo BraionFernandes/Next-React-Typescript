@@ -1,0 +1,3 @@
+export default function Loading(){
+    return <h1>Carregando Pagina, Aguarde!</h1>
+}
